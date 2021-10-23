@@ -1,0 +1,71 @@
+{"event":"registered", "timestamp":"2020-02-11T06:21:14.000Z","initiator_id":1}
+{"event":"registered", "timestamp":"2020-02-11T07:00:14.000Z","initiator_id":2}
+{"event":"app_loaded", "timestamp":"2020-03-11T06:24:42.000Z","initiator_id":1, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-03-11T07:00:14.000Z","initiator_id":3}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z","initiator_id":2, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-12-11T11:08:42.000Z","initiator_id":2, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-17-11T11:08:42.000Z","initiator_id":3, "device_type":"mobile"}
+
+{"event":"registered", "timestamp":"2020-02-11T06:21:14.000Z","initiator_id":11}
+{"event":"registered", "timestamp":"2020-02-11T07:00:14.000Z","initiator_id":12}
+{"event":"app_loaded", "timestamp":"2020-03-11T06:24:42.000Z","initiator_id":11, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-03-11T07:00:14.000Z","initiator_id":13}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z","initiator_id":12, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-12-11T11:08:42.000Z","initiator_id":12, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-17-11T11:08:42.000Z","initiator_id":13, "device_type":"mobile"}
+
+{"event":"registered", "timestamp":"2020-02-11T06:21:14.000Z","initiator_id":21}
+{"event":"registered", "timestamp":"2020-02-11T07:00:14.000Z","initiator_id":22}
+{"event":"app_loaded", "timestamp":"2020-03-11T06:24:42.000Z","initiator_id":21, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-03-11T07:00:14.000Z","initiator_id":23}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z","initiator_id":22, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-12-11T11:08:42.000Z","initiator_id":22, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-17-11T11:08:42.000Z","initiator_id":23, "device_type":"mobile"}
+3
+{"event":"registered", "timestamp":"2020-02-11T06:21:14.000Z","initiator_id":31}
+{"event":"registered", "timestamp":"2020-02-11T07:00:14.000Z","initiator_id":32}
+{"event":"app_loaded", "timestamp":"2020-03-11T06:24:42.000Z","initiator_id":31, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-03-11T07:00:14.000Z","initiator_id":33}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z","initiator_id":32, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-12-11T11:08:42.000Z","initiator_id":32, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-17-11T11:08:42.000Z","initiator_id":33, "device_type":"mobile"}
+
+{"event":"registered", "timestamp":"2020-02-11T06:21:14.000Z","initiator_id":41}
+{"event":"registered", "timestamp":"2020-02-11T07:00:14.000Z","initiator_id":42}
+{"event":"app_loaded", "timestamp":"2020-03-11T06:24:42.000Z","initiator_id":41, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-03-11T07:00:14.000Z","initiator_id":43}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z","initiator_id":42, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-12-11T11:08:42.000Z","initiator_id":42, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-17-11T11:08:42.000Z","initiator_id":43, "device_type":"mobile"}
+
+{"event":"registered", "timestamp":"2020-02-11T06:21:14.000Z","initiator_id":51}
+{"event":"registered", "timestamp":"2020-02-11T07:00:14.000Z","initiator_id":52}
+{"event":"app_loaded", "timestamp":"2020-03-11T06:24:42.000Z","initiator_id":51, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-03-11T07:00:14.000Z","initiator_id":53}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z","initiator_id":52, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-12-11T11:08:42.000Z","initiator_id":52, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-17-11T11:08:42.000Z","initiator_id":53, "device_type":"mobile"}
+
+{"event":"registered", "timestamp":"2020-02-11T06:21:14.000Z","initiator_id":61}
+{"event":"registered", "timestamp":"2020-02-11T07:00:14.000Z","initiator_id":62}
+{"event":"app_loaded", "timestamp":"2020-03-11T06:24:42.000Z","initiator_id":61, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-03-11T07:00:14.000Z","initiator_id":63}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z","initiator_id":62, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-12-11T11:08:42.000Z","initiator_id":62, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-17-11T11:08:42.000Z","initiator_id":63, "device_type":"mobile"}
+
+{"event":"registered", "timestamp":"2020-02-11T06:21:14.000Z","initiator_id":71}
+{"event":"registered", "timestamp":"2020-02-11T07:00:14.000Z","initiator_id":72}
+{"event":"app_loaded", "timestamp":"2020-03-11T06:24:42.000Z","initiator_id":71, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-03-11T07:00:14.000Z","initiator_id":73}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z","initiator_id":72, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-12-11T11:08:42.000Z","initiator_id":72, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-17-11T11:08:42.000Z","initiator_id":73, "device_type":"mobile"}
+
+{"event":"registered", "timestamp":"2020-02-11T06:21:14.000Z","initiator_id":81}
+{"event":"registered", "timestamp":"2020-02-11T07:00:14.000Z","initiator_id":82}
+{"event":"app_loaded", "timestamp":"2020-03-11T06:24:42.000Z","initiator_id":81, "device_type":"desktop"}
+{"event":"registered", "timestamp":"2020-03-11T07:00:14.000Z","initiator_id":83}
+{"event":"app_loaded", "timestamp":"2020-11-11T10:13:42.000Z","initiator_id":82, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-12-11T11:08:42.000Z","initiator_id":82, "device_type":"desktop"}
+{"event":"app_loaded", "timestamp":"2020-17-11T11:08:42.000Z","initiator_id":83, "device_type":"mobile"}

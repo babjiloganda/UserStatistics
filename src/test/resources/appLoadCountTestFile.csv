@@ -1,0 +1,5 @@
+event,time,app_loaded_status
+'registered','2019-12-29 07:00:14',1
+'registered','2020-11-02 06:21:14',0
+'app_loaded','2020-12-11 10:13:42',1
+'app_loaded','2021-12-11 10:13:42',0
