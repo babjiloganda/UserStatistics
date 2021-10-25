@@ -23,3 +23,19 @@ config.properties:
 SOURCE_PATH = "source file path/directory"
 REGISTERED_PATH = "source/target path for Registered Events"
 APP_LOADED_PATH = "source/target path for App Loaded Events"
+
+
+#Spark Submit to run in Cluster
+
+spark-submit 
+--class com.miro.user.stats.UserStatistics 
+--deploy-mode cluster  
+--name UserStatistics  
+--driver-memory 2g  
+--executor-memory 2g  
+--executor-cores 2  
+--num-executors 2  
+--files /home/user/config.properties#config.properties 
+/home/user/user-statistics-1.0-SNAPSHOT.jar 
+'Parse Mode' 
+'yarn'
